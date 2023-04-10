@@ -1,0 +1,15 @@
+C:\Geekbrains\С#\Examples\bin\Debug\net7.0\Examples.exe
+C:\Geekbrains\С#\Examples\bin\Debug\net7.0\Examples.deps.json
+C:\Geekbrains\С#\Examples\bin\Debug\net7.0\Examples.runtimeconfig.json
+C:\Geekbrains\С#\Examples\bin\Debug\net7.0\Examples.dll
+C:\Geekbrains\С#\Examples\bin\Debug\net7.0\Examples.pdb
+C:\Geekbrains\С#\Examples\obj\Debug\net7.0\Examples.csproj.AssemblyReference.cache
+C:\Geekbrains\С#\Examples\obj\Debug\net7.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\С#\Examples\obj\Debug\net7.0\Examples.AssemblyInfoInputs.cache
+C:\Geekbrains\С#\Examples\obj\Debug\net7.0\Examples.AssemblyInfo.cs
+C:\Geekbrains\С#\Examples\obj\Debug\net7.0\Examples.csproj.CoreCompileInputs.cache
+C:\Geekbrains\С#\Examples\obj\Debug\net7.0\Examples.dll
+C:\Geekbrains\С#\Examples\obj\Debug\net7.0\refint\Examples.dll
+C:\Geekbrains\С#\Examples\obj\Debug\net7.0\Examples.pdb
+C:\Geekbrains\С#\Examples\obj\Debug\net7.0\Examples.genruntimeconfig.cache
+C:\Geekbrains\С#\Examples\obj\Debug\net7.0\ref\Examples.dll
