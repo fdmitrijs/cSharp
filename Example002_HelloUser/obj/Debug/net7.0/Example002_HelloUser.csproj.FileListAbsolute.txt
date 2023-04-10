@@ -1,0 +1,15 @@
+C:\Geekbrains\С#\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.exe
+C:\Geekbrains\С#\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.deps.json
+C:\Geekbrains\С#\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.runtimeconfig.json
+C:\Geekbrains\С#\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.dll
+C:\Geekbrains\С#\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.pdb
+C:\Geekbrains\С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Geekbrains\С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Geekbrains\С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Geekbrains\С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Geekbrains\С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.dll
+C:\Geekbrains\С#\Examples\Example002_HelloUser\obj\Debug\net7.0\refint\Example002_HelloUser.dll
+C:\Geekbrains\С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
+C:\Geekbrains\С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Geekbrains\С#\Examples\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll
